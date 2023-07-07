@@ -1,3 +1,9 @@
+Some screenshots
+![scr1](https://github.com/jsar3004/Interview/assets/49793518/9fffe837-f4e5-494b-81d4-cc10266f13aa)
+![scr2](https://github.com/jsar3004/Interview/assets/49793518/fd92b6f2-bef1-4d04-82ed-0d4eda6e8503)
+![scr3](https://github.com/jsar3004/Interview/assets/49793518/35f56ddb-997b-4292-9a67-9c52d0e5b7b9)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
